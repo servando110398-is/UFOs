@@ -13,5 +13,4 @@ At what time of the day are we more likely to encounter an UFO?
 
 Note: Data used is for the year of 2016 and USA/Canada Only.
 
-# Months with most Sightings
-![This is an image](https://github.com/[servando110398-is]/[UFOs]/blob/[Main]/time_series.png?raw=true)
+
